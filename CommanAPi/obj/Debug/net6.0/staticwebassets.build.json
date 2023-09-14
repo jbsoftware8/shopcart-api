@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "xVpBaWJopnkxKwYY1K/HDP++svDfhxEt59VMfwHlHHk=",
+  "Source": "CommonApi",
+  "BasePath": "_content/CommonApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CommonApi\\wwwroot",
+      "Source": "CommonApi",
+      "ContentRoot": "D:\\Bansi\\JB\\API\\CommonApi\\CommanAPi\\wwwroot\\",
+      "BasePath": "_content/CommonApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
